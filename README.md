@@ -60,19 +60,6 @@ Personal portfolio website of **Muhammad Hashir** — a Software Engineer / Fron
 
 ---
 
-## Installation
-
-This project is originally forked/cloned from **[Soumyajit](https://github.com/soumyajit4419)**'s portfolio template. It has been edited, customized, and enhanced for personal use.
-
-```bash
-git clone https://github.com/Hashir-FrontEnd-dev/Portfolio.git
-cd Portfolio
-npm install
-npm start
-```
-
----
-
 ## Run
 
 ```bash
